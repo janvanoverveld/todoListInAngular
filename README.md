@@ -29,3 +29,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Met als voorbeeld:
 https://www.youtube.com/watch?v=Fdf5aTYRW0E&list=LL&index=1
+
+
+handige site voor testen met rest-services 
+
+https://jsonplaceholder.typicode.com/
